@@ -1,4 +1,4 @@
-# hr_Analytics_Dashnoard
+# hr_Analytics_Dashboard
 
 This comprehensive dashboard brings together crucial data from various departments, including Employee Data, Human Resources Data, Sales Data, and Research and Development.
 
